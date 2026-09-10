@@ -35,5 +35,21 @@ Japanese learners often encounter useful vocabulary outside traditional textbook
 
 I worked across the full development process, but mostly on the UX/UI, brainstorming, and the front-end using HTML, CSS, and JavaScript. Some notable contributions were the highlighting the text of vocabulary words color-coded based on the JLPT level and using Retrieval-Augmented Generation (RAG) to more accurately generate adventures based on user's chosen words.
 
+## 🚀 Future Improvements
+
+Somani was developed as an MVP, and there are several opportunities to expand and improve the experience:
+
+* Improve OCR accuracy for handwritten, vertical, or low-quality Japanese text
+* Add spaced-repetition exercises and personalized review schedules
+* Provide detailed vocabulary information, including readings, definitions, and example sentences
+* Expand progress tracking with learning streaks, achievements, and statistics
+* Give users more control over conversation difficulty and JLPT level
+* Improve accessibility through keyboard navigation, clearer feedback, and screen-reader support
+* Optimize the interface for a wider range of mobile and desktop devices
+* Add automated testing and improve error handling
+* Refine the RAG system to generate more relevant conversations and learning scenarios
+* Allow users to export vocabulary to tools such as Anki
+
+
 
 Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
